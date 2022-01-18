@@ -7,3 +7,11 @@
 > onde aborda as _tags_, _stash_ _e_ _branch_ como forma de aprender modulo avançado!
 
 
+### Markdown
+
+> * Parágrafos, Títulos (#, ##, ###, ...)
+> * Ênfase (*, **, _, ...)
+> * Listas (ordenadas e não ordenadas)
+> * Imagem (![]())
+> * Links 
+> * Códigos fontes
