@@ -23,8 +23,8 @@
 > [Allysonfreitas210695](https://github.com/Allysonfreitas210695?tab=repositories)
 
 ### Lista de Tarefas de 2020 com Ruby
-> - [ x ] aprender o Git
-> - [  ] autenticação
-> - [  ] Teste unitários e rspec
-> - [  ] Apis
-> - [  ] aprender Inglês 
+> - [x] aprender o Git
+> - [ ] autenticação
+> - [ ] Teste unitários e rspec
+> - [ ] Apis
+> - [ ] aprender Inglês 
